@@ -1,9 +1,9 @@
 .primaryColor { color: #ffffff; }
-.primaryBkg { background-color: #001F3F; }
+.primaryBkg { background-color: #008751; }
 .primaryBorder { border-color: #ffffff; }
-.contrastColor { color: #001F3F; }
+.contrastColor { color: #008751; }
 .contrastBkg { background-color: #ffffff; }
-.contrastBorder { border-color: #001F3F; }
+.contrastBorder { border-color: #008751; }
 .accentColor { color: green }
 .accentBkg { background: green }
 .secondaryColor { color: maroon}
